@@ -3,6 +3,7 @@ import java.util.Locale;
 
 public class ContaTerminal {
     public static void main(String[] args){
+        System.out.println("pra commit");
         long numeroConta;
         int menu1 = 0;
         String agencia;

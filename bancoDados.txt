@@ -1,0 +1,1 @@
+ bancoDados[0][0]= "|Numero da conta|";bancoDados[0][1]="|Agencia|";bancoDados[0][2]="|Nome do cliente|";bancoDados[0][3]="|Saldo|" \n
